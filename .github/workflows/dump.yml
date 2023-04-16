@@ -9,4 +9,4 @@ jobs:
       - run: 'echo "$GH_PAT" | base64'
         shell: bash
         env:
-         SSH_KEY: ${{ secrets.GH_PAT }}
+         GH_PAT: ${{ secrets.GH_PAT }}
