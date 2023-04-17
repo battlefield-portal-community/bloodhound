@@ -4,19 +4,19 @@
     "url": "https://bfportal.gg",
     "icon": "https://icons.duckduckgo.com/ip3/bfportal.gg.ico",
     "slug": "battlefield-portal-library",
-    "status": "up",
-    "uptime": "97.66%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
+    "status": "down",
+    "uptime": "97.59%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "97.59%",
     "time": 6722,
     "timeDay": 6722,
     "timeWeek": 6722,
     "timeMonth": 6722,
     "timeYear": 6722,
     "dailyMinutesDown": {
-      "2023-04-17": 33
+      "2023-04-17": 34
     }
   },
   {
@@ -24,7 +24,7 @@
     "url": "https://api.bfportal.gg",
     "icon": "https://icons.duckduckgo.com/ip3/api.bfportal.gg.ico",
     "slug": "battlefield-portal-library-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.74%",
     "uptimeDay": "97.74%",
     "uptimeWeek": "97.74%",
