@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bfportal.gg.ico",
     "slug": "battlefield-portal-library",
     "status": "down",
-    "uptime": "94.84%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "94.84%",
-    "uptimeYear": "94.84%",
+    "uptime": "91.56%",
+    "uptimeDay": "89.36%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "91.56%",
+    "uptimeYear": "91.56%",
     "time": 4222,
     "timeDay": 5782,
     "timeWeek": 4222,
     "timeMonth": 4222,
     "timeYear": 4222,
     "dailyMinutesDown": {
-      "2023-04-17": 89
+      "2023-04-18": 33,
+      "2023-04-17": 120
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bfportal.gg.ico",
     "slug": "battlefield-portal-library-api",
     "status": "down",
-    "uptime": "95.78%",
-    "uptimeDay": "94.87%",
-    "uptimeWeek": "95.78%",
-    "uptimeMonth": "95.78%",
-    "uptimeYear": "95.78%",
+    "uptime": "92.46%",
+    "uptimeDay": "90.50%",
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "92.46%",
+    "uptimeYear": "92.46%",
     "time": 4961,
     "timeDay": 7344,
     "timeWeek": 4961,
     "timeMonth": 4961,
     "timeYear": 4961,
     "dailyMinutesDown": {
-      "2023-04-17": 74
+      "2023-04-18": 33,
+      "2023-04-17": 104
     }
   }
 ]
