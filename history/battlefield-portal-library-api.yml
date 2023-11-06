@@ -1,7 +1,7 @@
 url: https://api.bfportal.gg
-status: down
-code: 502
-responseTime: 22620
-lastUpdated: 2023-11-06T16:46:00.872Z
+status: up
+code: 200
+responseTime: 588
+lastUpdated: 2023-11-06T17:27:45.834Z
 startTime: 2023-04-16T18:18:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
