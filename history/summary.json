@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bfportal.gg.ico",
     "slug": "battlefield-portal-library",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 1548,
-    "timeDay": 1324,
-    "timeWeek": 1052,
-    "timeMonth": 1056,
-    "timeYear": 1348,
+    "timeDay": 1254,
+    "timeWeek": 1108,
+    "timeMonth": 1070,
+    "timeYear": 1349,
     "dailyMinutesDown": {
       "2024-03-17": 1390,
       "2024-03-16": 101,
@@ -24,8 +24,7 @@
       "2023-11-19": 104,
       "2023-11-13": 12,
       "2023-11-06": 40,
-      "2023-09-21": 11,
-      "2023-09-08": 17
+      "2023-09-21": 11
     }
   },
   {
@@ -39,10 +38,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 1033,
-    "timeDay": 837,
-    "timeWeek": 620,
-    "timeMonth": 567,
+    "time": 1032,
+    "timeDay": 638,
+    "timeWeek": 649,
+    "timeMonth": 570,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2024-03-17": 1390,
@@ -53,8 +52,7 @@
       "2023-11-26": 12,
       "2023-11-19": 102,
       "2023-11-13": 12,
-      "2023-11-06": 39,
-      "2023-09-08": 17
+      "2023-11-06": 39
     }
   }
 ]
