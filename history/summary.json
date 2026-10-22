@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 879,
-    "timeDay": 673,
-    "timeWeek": 1038,
-    "timeMonth": 988,
-    "timeYear": 874,
+    "timeDay": 1362,
+    "timeWeek": 1090,
+    "timeMonth": 997,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bfportal.gg.ico",
     "slug": "battlefield-portal-library-api",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 1702,
-    "timeWeek": 721,
-    "timeMonth": 593,
-    "timeYear": 545,
+    "timeDay": 628,
+    "timeWeek": 724,
+    "timeMonth": 594,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   }
 ]
